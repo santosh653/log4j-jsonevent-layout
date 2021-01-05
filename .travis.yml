@@ -4,5 +4,7 @@ arch:
   
 language: java
 jdk:
-  - openjdk6
-  - openjdk7
+  - openjdk11
+  - openjdk11
+  - openjdk8
+  - openjdk8
